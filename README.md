@@ -35,8 +35,13 @@ The dataset can be downloaded from Kaggle here.
 
 # Algorithms Used
 Decision Tree Regressor
+
 Linear Regression
+
 Random Forest Regression
+
 Lasso Regression
+
 Support Vector Machine Regression
+
 Neural Network Regression
